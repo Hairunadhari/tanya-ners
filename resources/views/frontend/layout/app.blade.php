@@ -15,13 +15,14 @@
     body{
       font-family: 'Baloo';
       overflow-x: hidden;
+      background-color: #FFE6FC;
     }
     h1,h2,h3,h4,h5{
       margin-bottom: 0 !important;
     }
     .main_nav{
       position: fixed;
-      width: 100%
+      width: 100%;
     }
     /* .main_content{
       padding-top: 7%;

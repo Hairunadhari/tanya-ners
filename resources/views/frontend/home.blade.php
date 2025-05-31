@@ -45,7 +45,7 @@
                 <img src="{{asset('assets/6165616490930357646.png')}}" alt="">
                 <img src="{{asset('assets/6165616490930357642.png')}}" alt="">
             </div>
-            <a href="" class="btn btn-dark btn_kelasLayanan fw-bold px-5 mb-5"><h3>Kelas Lainnya</h3></a>
+            <a href="/kelas" class="btn btn-dark btn_kelasLayanan fw-bold px-5 mb-5"><h3>Kelas Lainnya</h3></a>
         </div>
         <img class="wave_kelaslayanan" src="{{asset('assets/waves-3.png')}}" alt="">
     </section>

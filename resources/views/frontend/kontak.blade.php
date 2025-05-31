@@ -2,7 +2,8 @@
 @section('content')
 <style>
     #kontak{
-        padding-top: 15vh;
+        padding-top: 20vh;
+        padding-bottom: 10vh;
     }
     #kontak p{
         font-size: 20px

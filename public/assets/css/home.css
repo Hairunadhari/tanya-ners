@@ -56,7 +56,7 @@
 
 #section3{
     position: relative;
-    z-index: -2;
+    z-index: auto;
     max-height: 100vh;
     height: max-content;
     margin-bottom: 7.5%;
