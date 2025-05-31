@@ -1,0 +1,20 @@
+navbar{
+    background: transparent !important;
+    width: 50vw !important;
+    z-index: 999999999 !important;
+    background-color: transparent;
+}
+.nav-link.menu.active {
+    color: #E93AFD !important;
+}
+.menu {
+    color: #000000 !important;
+}
+.daftar-sekarang {
+    color: white !important;
+}
+.logo img{
+    width: calc(25vw - 40px); 
+    height: max-content;
+    object-fit: contain
+}

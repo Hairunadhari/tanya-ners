@@ -1,0 +1,36 @@
+#no_pt{
+    padding-top: 15vh;
+    max-height: 100vh;
+    height: max-content;
+    min-height: max-content;
+}
+.img_sec_2{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+.wave{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-top: -25%;
+    position: relative;
+    z-index: -1;
+}
+
+
+#founderowner{
+    margin-top: -10rem;
+    padding: 5rem 0;
+    background-color: #8C52FF;
+}
+.imgFounder{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+.img_kutip{
+    width: 10%;
+    height: auto;
+    object-fit: contain;
+}
